@@ -1,7 +1,8 @@
 ### Hi👋, I'm Le Phu Truong.
 
-- 🌱 I’m currently studying Data Science at the University of Sciences, Vietnam National University-HCM.
+- 🌱 I’m currently studying Data Science at the University of Science, VNU-HCM.
 - 📫 How to reach me: lephutruong.2210@gmail.com.
+- 💬 Ask me about C++ or Python.
 
 <!--
 **letruongzzio/letruongzzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -12,7 +13,7 @@ Here are some ideas to get you started:
 - 
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 
 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
