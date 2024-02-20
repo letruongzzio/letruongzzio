@@ -2,7 +2,6 @@
 
 - 🌱 I’m currently studying Data Science at the University of Science, VNU-HCM.
 - 📫 How to reach me: lephutruong.2210@gmail.com.
-- 💬 Ask me about C++ or Python.
 
 <!--
 **letruongzzio/letruongzzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
