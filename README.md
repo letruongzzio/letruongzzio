@@ -9,7 +9,7 @@
 An overview of Machine Learning along with practicing Python coding to store files and images. In addition, we will practice a project on predicting house prices to better understand ML and will code a bit about matrix derivatives using Numerical Analysis.
 
 + The Machine Learning landscape.
-+ Numerical_in_Matrix_Derivatives.
++ Numerical in Matrix Derivatives.
 + End-to-end Machine Learning project.
 
 **2. Linear Regression and Overfitting**
