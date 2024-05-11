@@ -27,15 +27,6 @@ Update later...
 **5. Neural Networks**
 
 Update later...
-___
-**References:**
-
-$[1].$ Vũ Hữu Tiệp (2018). _Machine Learning cơ bản_.
-
-$[2].$ Géron, A. (2023). *Hands-On Machine Learning with SciKit-Learn*, Keras & TensorFlow (3rd ed.). O’Reilly Media.
-
-$[3].$ DeepLearning.AI, Andrew Ng. *Machine Learning Specialization*.
-
 
 <!--
 **letruongzzio/letruongzzio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
