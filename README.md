@@ -1,3 +1,5 @@
+[![trophy](https://github-profile-trophy.vercel.app/?username=letruongzzio)](https://github.com/ryo-ma/github-profile-trophy)
+
 ### Hi👋, I'm Le Phu Truong.
 
 - 🌱 I’m currently studying Data Science at the University of Science, VNU-HCM.
